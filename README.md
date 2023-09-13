@@ -3,4 +3,4 @@ A C# algorithm to determine the least frequent letter among the given options in
 
 
 
-Türkiye'nin 81 ilinin isimlerinde verilen seçenekler arasında en az sık bulunan harfi belirlemek için bir C# algoritması, popüler bir bilgi yarışması sorusundan ilham alınarak hazırlanmıştır.
+Türkiye'nin 81 ilinin isimlerinde verilen seçenekler arasında en az sık bulunan harfi belirlemek için bir C# algoritması, popüler bir bilgi yarışması sorusundan ilham alınarak hazırlanmıştır. 
