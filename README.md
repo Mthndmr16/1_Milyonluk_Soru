@@ -1,5 +1,5 @@
 # 1_Milyonluk_Soru
-A C# algorithm to determine the least frequent letter among the given options in the names of 81 provinces of Turkey, inspired by a popular quiz question.
+A C# algorithm to determine the least frequent letter among the given options in the names of 81 provinces of Turkey, inspired by a popular quiz question. 
 
 
 
